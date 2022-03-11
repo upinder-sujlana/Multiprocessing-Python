@@ -1,2 +1,2 @@
 # Multiprocessing-Python
-example of a multiprocessing code
+This program captures learning multiprocessing code implementation.
